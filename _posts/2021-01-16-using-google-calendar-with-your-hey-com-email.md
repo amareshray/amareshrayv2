@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Using Google Calendar with your Hey.com email
+title: "Using Google Calendar with your Hey.com email"
 author: amaresh_ray
-date: 2021-01-16 11:37:18
 ---
 I've now been using Hey.com for my emails for the past few months and I have to say that I haven't really missed Gmail.
 
